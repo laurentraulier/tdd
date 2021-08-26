@@ -3,8 +3,8 @@ package com.kzone.threesix;
 /**
  * Hello world!
  */
-public final class App {
-    private App() {
+public final class Lego {
+    private Lego() {
     }
 
     /**
