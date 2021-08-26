@@ -13,6 +13,6 @@ class TestLego {
      */
     @Test
     void testApp() {
-        assertEquals(1,1);
+        assertEquals(1, 1);
     }
 }
