@@ -22,3 +22,9 @@ for more infos about mvn test parameters : [Maven - Running unit tests examples]
 *You can create a continuous integration (CI) workflow in GitHub Actions to build and test your Java project with Maven.*
 
 [Github Actions : Build & test Java with Maven](https://docs.github.com/en/actions/guides/building-and-testing-java-with-maven)
+
+
+Some tips (in french) about Junit5 & maven artefacts ID :
+[Junit5 : group version artefact](https://www.jmdoudoux.fr/java/dej/chap-junit5.htm)
+
+More about [JUnit platform runner version](https://mvnrepository.com/artifact/org.junit.platform/junit-platform-runner/1.7.2) ...
