@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/laurentraulier/tdd/actions/workflows/maven.yml/badge.svg)](https://github.com/laurentraulier/tdd/actions/workflows/maven.yml)
 # tdd
 
 ## The 'test' phase
